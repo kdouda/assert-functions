@@ -1,0 +1,20 @@
+{
+  "name": "assert-functions",
+  "version": "1.0.0",
+  "description": "Assertion functions for basic JS data types.",
+  "main": "index.js",
+  "keywords": [
+    "assert",
+    "types",
+    "function"
+  ],
+  "scripts": {
+    "test": "mocha \"tests/**/*.js\""
+  },
+  "author": "Karel Douda",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "mocha": "^8.1.1"
+  }
+}
