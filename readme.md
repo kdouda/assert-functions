@@ -1,6 +1,6 @@
 # assert-functions
 
-> Assertion functions for basic JS data types. Unopiniated, simple, with no cruft.
+> Assertion functions for basic JS data types. Unopinionated, simple, with no cruft.
 
 ## Install
 
