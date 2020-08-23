@@ -7,5 +7,6 @@ module.exports = {
     assertFunction: require('./assertFunction'),
     assertBoolean: require('./assertBoolean'),
     assertBigInt: require('./assertBigInt'),
-    assertArray: require('./assertArray')
+    assertArray: require('./assertArray'),
+    AssertionError: require('./assertionError')
 };

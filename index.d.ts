@@ -1,0 +1,10 @@
+export declare function assertArray(val: any) : void;
+export declare function assertBigInt(val: any) : void;
+export declare function assertBoolean(val: any) : void;
+export declare function assertFunction(val: any) : void;
+export declare function assertNumber(val: any) : void;
+export declare function assertObject(val: any) : void;
+export declare function assertString(val: any) : void;
+export declare function assertSymbol(val: any) : void;
+export declare function assertUndefined(val: any) : void;
+export declare class AssertionError extends Error {};
